@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/bin/Debug/net6.0/variables
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/bin/Debug/net6.0/variables.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/bin/Debug/net6.0/variables.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/bin/Debug/net6.0/variables.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/bin/Debug/net6.0/variables.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/refint/variables.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/variables.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Talleres/04 - Variables/variables/obj/Debug/net6.0/ref/variables.dll
